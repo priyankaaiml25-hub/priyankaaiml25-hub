@@ -3,7 +3,7 @@
 
 # Hi, I'm Priyanka Chaurasiya 👋
 
-### B.Tech CSE Student | Aspiring Software Developer
+### B.Tech AI & ML Student | Aspiring Software Developer
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Learning+Programming+Step+by+Step;Exploring+Software+Development;Building+My+Developer+Journey" alt="Animated typing introduction" />
@@ -15,7 +15,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Second-year B.Tech CSE student at CMR College
+- 🎓 Second-year B.Tech AI & ML student at CMR College
 - 🌱 Learning programming and strengthening my fundamentals
 - 💡 Interested in problem-solving and software development
 - 🔍 Exploring new technologies and development tools
